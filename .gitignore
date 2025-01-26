@@ -1,0 +1,98 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Unity auto-generated files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Unity Analytics
+*.utmp
+
+# Unity Package Manager
+Packages/manifest.json.meta
+Packages/packages-lock.json
+
+# Addressable Asset System
+/Assets/AddressableAssetsData/*.bin*
+
+# Shader caches
+*.shadercache
+
+# Crash logs and error reports
+*.crash
+*.stacktrace
+*.log
+
+# Visual Studio temporary files
+.vs/
+*.vsconfig
+
+# Rider / IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code workspace settings
+.vscode/
+*.code-workspace
+
+# OS-specific files
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+.Trash-*
+
+# Backup and temporary files
+*.bak
+*.tmp
+*.swp
+*.lock
+
+# Build files
+/Builds/**
+*.apk
+*.xcodeproj
+*.ipa
+*.exe
+*.app
+
+# Asset files
+*.psd
+*.tga
+*.png.meta
+
+# Audio and Video
+*.mp3
+*.ogg
+*.wav
+*.avi
+*.mp4
+
+# Models and Prefabs
+*.fbx.meta
+*.obj.meta
+
+# Git conflicts and patch files
+*.orig
